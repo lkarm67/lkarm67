@@ -1,6 +1,7 @@
 <p align="left">
   <img src="./logo.jpg" alt="logo" width="160">
 </p>
+
 ## Hi 👋  My name is Liudmyla 
 
 I’m a GoIT student striving to become a Frontend Developer.
