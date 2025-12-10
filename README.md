@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./logo.jpg" alt="logo" width="120">
+  <img src="./logo.jpg" alt="logo" width="160">
 </p>
 ## Hi 👋  My name is Liudmyla 
 
