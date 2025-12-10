@@ -1,6 +1,6 @@
 ## Hi 👋  My name is Liudmyla 
 <p align="right">
-  <img src="./logo.jpeg" alt="logo" width="120">
+  <img src="./logo.jpg" alt="logo" width="120">
 </p>
 
 I’m a GoIT student striving to become a Frontend Developer.
