@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img src="./logo.jpg" alt="logo" width="120">
 </p>
 ## Hi 👋  My name is Liudmyla 
