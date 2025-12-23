@@ -35,6 +35,11 @@ goal-orientation, self-organization, empathy.
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 
+### 🗣️ Languages
+![English](https://img.shields.io/badge/English-Intermediate-E76A04?style=flat&logo=google-translate&logoColor=white)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-E76A04?style=flat&logo=google-translate&logoColor=white)
+![Russian](https://img.shields.io/badge/Russian-Fluent-E76A04?style=flat&logo=google-translate&logoColor=white)
+
 ### Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fsdkl04@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/liudmyla-karmeliuk-front-end/)
