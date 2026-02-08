@@ -4,8 +4,9 @@
 
 ## Hi 👋  My name is Liudmyla 
 
-I’m a GoIT student striving to become a Frontend Developer.
-I used to work in preventive and lifestyle medicine, and now I’ve chosen to shift my career into IT. Creativity has always inspired me, though I didn’t imagine it would eventually guide me toward tech. I love seeing ideas take shape, especially when they make a positive impact on people.
+Frontend Developer with a background in preventive and lifestyle medicine.
+Focused on building clean, user-friendly interfaces with real value for people.
+Open to new opportunities and continuous learning.
 
 ### Soft skills: 
 goal-orientation, self-organization, empathy.
