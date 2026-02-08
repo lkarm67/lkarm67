@@ -4,7 +4,7 @@
 
 ## Hi 👋  My name is Liudmyla 
 
-Frontend Developer with a background in preventive and lifestyle medicine.
+Full Stack Developer with a background in preventive and lifestyle medicine.
 Focused on building clean, user-friendly interfaces with real value for people.
 Open to new opportunities and continuous learning.
 
