@@ -46,10 +46,65 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 
 ### Soft skills: 
-goal-orientation, self-organization, empathy.
+- Problem-solving mindset
+- Team collaboration
+- Communication
+- Attention to detail
+
+### Projects
+
+#### 🧸 [Nanny Services App](https://nanny-services-neon.vercel.app/)
+
+SPA application for finding babysitters.
+- Tech: React, Firebase, Vite
+- Features:
+  - Authentication (login/register)
+  - Add to favorites
+  - Filtering and browsing nannies
+  - Responsive UI
+🔗 [Code](https://github.com/lkarm67/nanny-services)
+
+#### 🚐 [TravelTrucks](https://traveltrucks-rent.vercel.app/)
+
+Camper rental platform.
+- Tech: Next.js, React, TanStack Query
+- Features:
+  - Catalog with filtering & pagination
+  - Reviews and detailed pages
+  - Booking system
+  - Favorites management
+🔗 [Code](https://github.com/lkarm67/traveltrucks-rent)
+
+#### 🛠️ [ToolNext](https://project-group-6-fronted.vercel.app/) (Team Project)
+
+Full-stack tool rental platform.
+- Tech: Next.js, Node.js, MongoDB
+- My role: frontend Developer responsible for the Header
+- Features:
+  - Authentication system
+  - Booking & review features
+  - REST API integration
+  - Backend endpoint development
+🔗 [Code (backend)](https://github.com/Buievska/project_group_6_backend)
+🔗 [Code (frontend)](https://github.com/Buievska/project_group_6_fronted)
+
+#### 🪑 [Меблерія](https://buievska.github.io/js-shop-group-10/) (Team Project) 
+
+Furniture store.
+- Tech: HTML5, CSS3, JavaScript
+- My role: responsible for the endpoint: Creation a New Tool(backend) and Registration Page(frontend)
+- Features:
+  - Product catalog with structured layout
+  -  Pagination for browsing products
+  - Interactive UI components (accordion, sliders)
+  - Responsive design across all devices
+  - Smooth user experience with notifications (iziToast)
+  - API integration for dynamic content loading
+  - Modern UI with focus on usability and navigation
+🔗 [Code](https://github.com/Buievska/js-shop-group-10/)
 
 ### 🗣️ Languages
-- English — Intermediate (B1–B2)  
+- English — Intermediate (B1)  
 - Ukrainian — Native  
 - Russian — Fluent
   
