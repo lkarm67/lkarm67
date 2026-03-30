@@ -2,7 +2,7 @@
   <img src="./logo.jpg" alt="logo" width="160">
 </p>
 
-## Hi 👋  My name is Liudmyla 
+# Hi 👋  My name is Liudmyla 
 
 Full Stack Developer specializing in modern web applications using React and Node.js.  
 I build clean, responsive, and user-focused interfaces with real-world functionality.  
@@ -10,7 +10,7 @@ I build clean, responsive, and user-focused interfaces with real-world functiona
 Experienced in working with APIs, authentication, and modern frontend tools.  
 Background in preventive and lifestyle medicine helps me create meaningful, user-centered digital products.
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 🧩 Frontend
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
@@ -21,48 +21,39 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)](#)
 
 ⚙️ State & Data
-[![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge)](#)
-[![REST API](https://img.shields.io/badge/REST-API-009688&style=for-the-badge)](#)
+[![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge)](#)
+[![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)](#)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)](#)
-
-🛠️ Backend & Database
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge)](#)
-
-🔧 Tools & Workflow
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)](#)
 
 🎨 Design & Collaboration
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=for-the-badge)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)](#)
 
 🚀 Deployment
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](#)
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge)](#)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7&style=for-the-badge)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=00C7B7&style=for-the-badge)](#)
 
 🤖 AI Tools
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)](#)
 
-### 💡 Soft skills
+## 💡 Soft skills
 - Problem-solving 
 - Team collaboration
 - Communication
 - Attention to detail
 
-### 📂 Projects
+## 📂 Projects
 
-#### 🧸 Nanny Services App
+### 1. 🧸 Nanny Services App | React + Firebase
 
 SPA application for finding babysitters.
 
 **Type:** Individual
+
 **Tech:** React, Firebase, Vite
 
 **Features:**
@@ -74,11 +65,14 @@ SPA application for finding babysitters.
 🔗 <a href="https://nanny-services-neon.vercel.app/" target="_blank">Live</a>
 🔗 <a href="https://github.com/lkarm67/nanny-services" target="_blank">Code</a>
 
-#### 🚐 TravelTrucks
+---
+
+### 2. 🚐 TravelTrucks
 
 Camper rental platform with booking system and filtering.
 
 **Type:** Individual
+
 **Tech:** Next.js, React, TanStack Query
 
 **Features:**
@@ -90,12 +84,15 @@ Camper rental platform with booking system and filtering.
 🔗 <a href="https://traveltrucks-rent.vercel.app/" target="_blank">Live</a>
 🔗 <a href="https://github.com/lkarm67/traveltrucks-rent" target="_blank">Code</a>
 
-#### 🛠️ ToolNext
+---
+
+### 3. 🛠️ ToolNext
 
 Full-stack tool rental platform.
 
 **Type:** Team Project
 **Role:** Fullstack Developer (backend: Create New Tool endpoint, frontend: Registration page)
+
 **Tech:** Next.js, Node.js, MongoDB
 
 **Features:**
@@ -108,12 +105,15 @@ Full-stack tool rental platform.
 🔗 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">Backend</a>
 🔗 <a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">Frontend</a>
 
-#### 🪑 Меблерія 
+---
+
+### 4. 🪑 Меблерія 
 
 Furniture store.
 
 **Type:** Team Project
 **Role:** Frontend Developer (Header section)
+
 **Tech:** HTML5, CSS3, JavaScript
 
 **Features:**
@@ -123,7 +123,7 @@ Furniture store.
   - API integration  
   - User notifications  
 
-🔗 <a href="https://buievska.github.io/js-shop-group-10/" target="_blank">Live</a>    
+🔗 <a href="https://buievska.github.io/js-shop-group-10/" target="_blank">Live</a>
 🔗 <a href="https://github.com/Buievska/js-shop-group-10/" target="_blank">Code</a>
 
 ## 💼 Experience
@@ -148,17 +148,3 @@ Dec 2025 – Present
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/380971647012)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frontend_fullstack_developer/)
 
-<!--
-**lkarm67/lkarm67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
