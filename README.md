@@ -25,6 +25,11 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 [![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)](#)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)](#)
 
+🛠️ Backend & Database 
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](#) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)](#) 
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge)](#)
+
 🎨 Design & Collaboration
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)](#)
