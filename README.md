@@ -53,7 +53,33 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 
 ## 📂 Projects
 
-### 1. 🧸 Nanny Services App | React + Firebase
+### 1. 💼 Portfolio Website | Next.js
+
+Modern personal portfolio website for showcasing projects and skills.
+
+<details>
+<summary>More details</summary>
+
+**Type:** Individual  
+
+**Tech:** Next.js, React, TypeScript, CSS Modules, Framer Motion
+
+**Features:**
+- Responsive modern UI
+- Project showcase section
+- Multilanguage support
+- Smooth animations and transitions
+- Contact section
+- Optimized performance
+- Clean component structure
+</details>
+
+🔗 <a href="https://portfolio-site-tawny-delta.vercel.app/" target="_blank">Live</a>
+🔗 <a href="https://github.com/lkarm67/portfolio_site" target="_blank">Code</a>
+
+---
+
+### 2. 🧸 Nanny Services App | React + Firebase
 
 SPA application for finding babysitters.
 
@@ -76,7 +102,7 @@ SPA application for finding babysitters.
 
 ---
 
-### 2. 🚐 TravelTrucks
+### 3. 🚐 TravelTrucks
 
 Camper rental platform with booking system and filtering.
 
@@ -98,7 +124,7 @@ Camper rental platform with booking system and filtering.
 
 ---
 
-### 3. 🛠️ ToolNext
+### 4. 🛠️ ToolNext
 
 Full-stack tool rental platform.
 
@@ -122,7 +148,7 @@ Full-stack tool rental platform.
 
 ---
 
-### 4. 🪑 Меблерія 
+### 5. 🪑 Меблерія 
 
 Furniture store.
 
