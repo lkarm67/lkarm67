@@ -57,6 +57,9 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 
 SPA application for finding babysitters.
 
+<details>
+<summary>More details</summary>
+
 **Type:** Individual
 
 **Tech:** React, Firebase, Vite
@@ -66,6 +69,7 @@ SPA application for finding babysitters.
   - Add to favorites
   - Filtering and browsing nannies
   - Responsive UI
+</details>
 
 🔗 <a href="https://nanny-services-neon.vercel.app/" target="_blank">Live</a>
 🔗 <a href="https://github.com/lkarm67/nanny-services" target="_blank">Code</a>
@@ -76,6 +80,8 @@ SPA application for finding babysitters.
 
 Camper rental platform with booking system and filtering.
 
+<details>
+<summary>More details</summary>
 **Type:** Individual
 
 **Tech:** Next.js, React, TanStack Query
@@ -85,6 +91,7 @@ Camper rental platform with booking system and filtering.
   - Reviews and detailed pages
   - Booking system
   - Favorites management
+</details>
 
 🔗 <a href="https://traveltrucks-rent.vercel.app/" target="_blank">Live</a>
 🔗 <a href="https://github.com/lkarm67/traveltrucks-rent" target="_blank">Code</a>
@@ -95,6 +102,8 @@ Camper rental platform with booking system and filtering.
 
 Full-stack tool rental platform.
 
+<details>
+<summary>More details</summary>
 **Type:** Team Project
 **Role:** Fullstack Developer (backend: Create New Tool endpoint, frontend: Registration page)
 
@@ -105,6 +114,7 @@ Full-stack tool rental platform.
   - Booking & review features
   - REST API integration
   - Backend endpoint development
+</details>
 
 🔗 <a href="https://project-group-6-fronted.vercel.app/" target="_blank">Live</a>
 🔗 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">Backend</a>
@@ -116,6 +126,8 @@ Full-stack tool rental platform.
 
 Furniture store.
 
+<details>
+<summary>More details</summary>
 **Type:** Team Project
 **Role:** Frontend Developer (Header section)
 
@@ -127,6 +139,7 @@ Furniture store.
   - Responsive layout  
   - API integration  
   - User notifications  
+</details>
 
 🔗 <a href="https://buievska.github.io/js-shop-group-10/" target="_blank">Live</a>
 🔗 <a href="https://github.com/Buievska/js-shop-group-10/" target="_blank">Code</a>
