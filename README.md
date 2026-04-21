@@ -126,7 +126,7 @@ Camper rental platform with booking system and filtering.
 
 ### 4. 🛠️ ToolNext
 
-Full-stack tool rental platform.
+Fullstack tool rental platform.
 
 <details>
 <summary>More details</summary>
