@@ -88,7 +88,7 @@ Modern personal portfolio website for showcasing projects and skills.
 
 ---
 
-### 2. 🔥 Warm Touch | Commercial Website | Next.js
+### 2. 🔥 Теплий дотик | Commercial Website | Next.js
 
 A commercial website developed for a real client — a stove, masonry heater, and fireplace craftsman.
 
