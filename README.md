@@ -17,7 +17,10 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](#)
+[![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)](#)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
+[![Yup](https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=yup&logoColor=white)](https://github.com/jquense/yup)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)](#)
 
 ⚙️ State & Data
@@ -29,6 +32,8 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](#) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)](#) 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge)](#)
+[![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)](#)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
 
 🎨 Design & Collaboration
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
@@ -40,6 +45,10 @@ Background in preventive and lifestyle medicine helps me create meaningful, user
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](#)
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=00C7B7&style=for-the-badge)](#)
+
+🛠️ Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 🤖 AI Tools
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)](#)
@@ -79,7 +88,34 @@ Modern personal portfolio website for showcasing projects and skills.
 
 ---
 
-### 2. 🧸 Nanny Services App | React + Firebase
+### 2. 🔥 Warm Touch | Commercial Website | Next.js
+
+A commercial website developed for a real client — a stove, masonry heater, and fireplace craftsman.
+
+<details>
+<summary>More details</summary>
+
+**Type:** Individual commercial project
+
+**Role:** Fullstack Developer
+
+**Tech:** Next.js, React, TypeScript, CSS Modules, Resend, Telegram Bot API, REST API, Vercel
+
+**Features:**
+- Responsive design and adaptive layouts
+- Portfolio gallery with project categories and image lightbox
+- Contact form for customer inquiries
+- Email notifications through Resend
+- Telegram bot notifications for incoming inquiries
+- Light, dark, and system theme preferences
+- SEO metadata, sitemap, and robots configuration
+- Performance optimization
+</details>
+
+🔗 <a href="https://warmtouch.vercel.app/" target="_blank">Live</a>
+🔗 <a href="https://github.com/lkarm67/warmtouch" target="_blank">Code</a>
+
+### 3. 🧸 Nanny Services App | React + Firebase
 
 SPA application for finding babysitters.
 
@@ -102,7 +138,7 @@ SPA application for finding babysitters.
 
 ---
 
-### 3. 🚐 TravelTrucks
+### 4. 🚐 TravelTrucks
 
 Camper rental platform with booking system and filtering.
 
@@ -124,7 +160,7 @@ Camper rental platform with booking system and filtering.
 
 ---
 
-### 4. 🛠️ ToolNext
+### 5. 🛠️ ToolNext
 
 Fullstack tool rental platform.
 
@@ -148,7 +184,7 @@ Fullstack tool rental platform.
 
 ---
 
-### 5. 🪑 Меблерія 
+### 6. 🪑 Меблерія 
 
 Furniture store.
 
@@ -173,12 +209,14 @@ Furniture store.
 ## 💼 Experience
 
 **Freelance Web Developer**  
-Dec 2025 – Present  
+Dec 2025 – Present | Remote 
 
-- Building SPA applications using React and Next.js  
-- Working with REST APIs and authentication  
-- Creating responsive and user-friendly interfaces  
-- Deploying apps (Vercel, Netlify, Render)  
+- Develop responsive websites and web applications using React and Next.js.
+- Build user interfaces with TypeScript, JavaScript, and CSS Modules.
+- Working with REST APIs, authentication, forms, and data services.  
+- Implement email delivery and Telegram bot notifications.
+- Deploy and maintain projects using Vercel and other hosting platforms.
+- Develop solutions for individual projects and real client requirements. 
 
 ### 🗣️ Languages
 - **English** — Intermediate (B1)  
